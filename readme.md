@@ -5,6 +5,8 @@ This project leverages decentralized finance (DeFi) to facilitate lending for e-
 
 ## Contract Address
 0x827f0E58c632C3242Cd0f48cB358AE2ec63e22C9
+![image](https://github.com/user-attachments/assets/72e73ecf-7f49-4d4c-a124-ea3ae8429e2b)
+
 
 ## Project Vision
 Our vision is to democratize access to education by providing an innovative, decentralized financial solution. By integrating DeFi with e-learning, we aim to remove financial barriers and empower individuals to upskill and learn, fostering a culture of continuous development.
